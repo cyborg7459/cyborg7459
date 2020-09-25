@@ -18,7 +18,7 @@
 <br>
 <br>
 
-## <div align="center"> My Tech Stack </div>
+# <div align="center"> My Tech Stack </div>
 
 <br>
 
@@ -55,6 +55,34 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="60" he6ght="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+# <div align="center"> Connect with me </div>
+
+<br>
+
+<p align="center">
+  <a href="https://www.facebook.com/shreyash.kumarsingh.5">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/1383/1383259.svg" height="50px" width="50px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sks_0101/">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" height="50px" width="50px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shreyash-singh-33a68318b">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" height="50px" width="50px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shreyashsingh17@gmail.com"> 
+    <img src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" height="50px" width="50px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/cyborg7459"> 
+    <img src="https://www.flaticon.com/svg/static/icons/svg/25/25657.svg" height="50px" width="50px" />
+  </a>
 </p>
 
 
