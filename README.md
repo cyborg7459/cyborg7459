@@ -1,6 +1,6 @@
 ### Hi there, Shreyash here 👋
 
-[![Shreyash's github stats](https://github-readme-stats.vercel.app/api?username=cyborg7459&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Shreyash's github stats](https://github-readme-stats.vercel.app/api?username=cyborg7459&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
