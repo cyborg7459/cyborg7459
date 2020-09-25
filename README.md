@@ -1,6 +1,14 @@
-### Hi there, Shreyash here 👋
+## Hi there, Shreyash here 👋
+
 
 [![Shreyash's github stats](https://github-readme-stats.vercel.app/api?username=cyborg7459&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyborg7459&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="padding-left: 30px;">
+My text
+</div>
 
 
 <!--
