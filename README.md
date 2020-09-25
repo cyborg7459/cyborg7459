@@ -1,3 +1,5 @@
+![alt text](https://github.com/cyborg7459/cyborg7459/blob/master/images/pixeltrue-web-development-1.png?raw=true)
+
 # <div align="center"> Hi there, Shreyash here 👋 </div>
 
 <p align="center" style="font-family:Papyrus"> I am a self taught programmer, & a tech enthusiast with great interest in the fields of DEV and competitive programming. I'm currently pursuing my B.Tech degree in Electrical Engineering from IIT(BHU) Varanasi. I use the MERN stack, though I love to explore various technologies and try to keep expanding my field. <br>Apart from coding, I also enjoy watching and playing football, as well as singing.</p>
