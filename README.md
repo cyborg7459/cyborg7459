@@ -7,7 +7,9 @@
 
 <div align="center"> </div>
 
-[![Shreyash's github stats](https://github-readme-stats.vercel.app/api?username=cyborg7459&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyborg7459&hide=stars&count_private=true&show_icons=true&bg_color=0.50,000000,404040&text_color=ffffff&title_color=04ba29&icon_color=04ba29" />
+</a>
 
 
 
