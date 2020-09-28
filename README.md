@@ -43,7 +43,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <br><br>
+    <br>
   <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="60"/> 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
