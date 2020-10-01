@@ -5,21 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyborg7459" alt="cyborg7459" /> </p>
 
 <p align="center" style="font-family:Papyrus"> I am a self taught programmer, & a tech enthusiast with great interest in the fields of DEV and competitive programming. I'm currently pursuing my B.Tech degree in Electrical Engineering from IIT(BHU) Varanasi. I use the MERN stack, though I love to explore various technologies and try to keep expanding my field. <br>Apart from coding, I also enjoy watching and playing football, as well as singing.</p>
-
 <br>
-
-
-<div align="center"> </div>
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyborg7459&hide=stars&count_private=true&show_icons=true&bg_color=0.50,000000,404040&text_color=ffffff&title_color=04ba29&icon_color=04ba29" />
 </a>
 
-<br>
-<br>
+<br><br>
 
 # <div align="center"> My Tech Stack </div>
-
 <br>
 
 <p align="center">
