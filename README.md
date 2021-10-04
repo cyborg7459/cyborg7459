@@ -26,20 +26,17 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/sks_0101/">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" height="50px" width="50px" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="50px" width="50px" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shreyash-singh-33a68318b">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" height="50px" width="50px" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50px" width="50px" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:shreyashsingh17@gmail.com"> 
-    <img src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" height="50px" width="50px" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50px" width="50px" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/cyborg7459"> 
-    <img src="https://www.flaticon.com/svg/static/icons/svg/25/25657.svg" height="50px" width="50px" />
-  </a>
 </p>
 
 
