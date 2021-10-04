@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/shreyash.kumarsingh.5">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/1383/1383259.svg" height="50px" width="50px" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="50px" width="50px" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/sks_0101/">
