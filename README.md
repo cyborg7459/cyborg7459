@@ -36,7 +36,6 @@
   <a href="mailto:shreyashsingh17@gmail.com"> 
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50px" width="50px" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
